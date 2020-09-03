@@ -13,6 +13,6 @@
   </a> 
 </p>
   
-<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/gif/canvas.gif>
+<img src=https://raw.githubusercontent.com/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keys/master/gif/canvas.gif>
 
 
