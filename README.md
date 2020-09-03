@@ -12,7 +12,10 @@
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keys.svg?style=flat" alt="Forks">
   </a> 
 </p>
-  
+
 <img src=https://raw.githubusercontent.com/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keys/master/gif/canvas.gif>
+_Using keyborads
+
+![python](./images/keyborad.jpg)
 
 
