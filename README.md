@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keyse/tags">
+  <a href="https://github.com/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keysee/tags">
     <img src="https://img.shields.io/github/tag/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keys.svg?label=version&style=flat" alt="Version">
   </a>
   <a href="https://github.com/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keys/stargazers">
