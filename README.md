@@ -13,10 +13,6 @@
   </a> 
 </p>
   
-_Install_
-```
-pip install pygame
-```
-![python](./images/robot.png)
+<img src=https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/gif/canvas.gif>
 
 
