@@ -2,14 +2,14 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/I-am-a-Robote/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/I-am-a-Robot.svg?label=version&style=flat" alt="Version">
+  <a href="https://github.com/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keyse/tags">
+    <img src="https://img.shields.io/github/tag/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keys.svg?label=version&style=flat" alt="Version">
   </a>
-  <a href="https://github.com/BrianMarquez3/I-am-a-Robot/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/I-am-a-Robot.svg?style=flat" alt="Stars">
+  <a href="https://github.com/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keys/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keys.svg?style=flat" alt="Stars">
   </a>
-  <a href="https://github.com/BrianMarquez3/I-am-a-Robot/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/I-am-a-Robot.svg?style=flat" alt="Forks">
+  <a href="https://github.com/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keys/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Move-Canvas-shapes-with-Arrow-Keys.svg?style=flat" alt="Forks">
   </a> 
 </p>
   
